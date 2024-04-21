@@ -125,3 +125,10 @@ reference files
 - [ ] tbd [Stable Diffusion - Arch AI](https://youtu.be/ZyRzAX4x-FQ?t=4568)
 - [ ] tbd [tbd](tbd)
 ---
+### Blender Site Layout
+- [Google Maps to Blender 2023 - GIS Solutions](https://www.youtube.com/watch?v=h2_39L2fxkc)
+	- [GIS Solutions - Videos](https://www.youtube.com/@gissolutions4604/videos)
+- [Google Maps 3D: Data into Blender](https://www.youtube.com/watch?v=F_XsmoZJmG8)
+	- [Nicko16 - Videos](https://www.youtube.com/@Nicko16/videos)
+- [Google Maps to Blender 2024](https://www.youtube.com/watch?v=4qYM3Gwfw00)
+- https://github.com/eliemichel/MapsModelsImporter
