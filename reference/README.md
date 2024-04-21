@@ -6,8 +6,12 @@ reference files
 - library used [IFC4-AU-Library.ifc](.IFC4-AU-Library.ifc)
 - final ifc file [multistorey2floor.ifc](./multistorey2floor.ifc)
 
+## wip
+- [ ] setup blender windows https://docs.blender.org/manual/en/latest/interface/window_system/areas.html
+- [ ] building Smart Data Dictionary https://www.buildingsmart.org/users/services/buildingsmart-data-dictionary/
+- [ ]  Look at https://www.floorplans.com/ and pull some floor plans found via [youtube](https://www.youtube.com/watch?v=u2Ywe1vbl30)
+	- [ ]  Small Passive House - https://www.youtube.com/watch?v=ogjkhdwKVII
 ---
-
 ## BlenderBIM - git
 - BIM [github colab youtube](https://www.youtube.com/watch?v=cJZhSCSSWdA) for this BIM [github example project](https://github.com/brunopostle/ifc-demo)
 	- [ ] IFC Git panel [tc 2:48](https://youtu.be/cJZhSCSSWdA?t=168)
@@ -41,10 +45,11 @@ reference files
 	- [ ] git show uncommitted changes [tc 3:05](https://youtu.be/-Y5-LR4oik8?t=185)
 	- [ ] git commit changes [tc 3:09](https://youtu.be/-Y5-LR4oik8?t=189)
 	- [ ] git commit changes [tc 3:09](https://youtu.be/-Y5-LR4oik8?t=189)
-
+ - [ ] tbd
+- [ ] tbd
+- [ ] tbd
 ---
 # BlenderBIM - quick reference
-
 - Snap Settings: [BlenderBIM Tutorial - tc 1:00](https://youtu.be/kF2k_VW-yrQ?t=60) and  [BlenderBIM MultiStory - tc 0L28](https://youtu.be/ewvlodE1Nxg?t=28)
 	- Snap to: Vertex, Edge, Face Project, Edge Center
 	- Closest
@@ -55,21 +60,6 @@ reference files
 	- Left Click Priority wall
 	- Shift Left Click lapping wall
 	- Shift - T (will but Join the two walls)
-
----
-
-
-## blenderbim-tutorial
-
-- [x] [Blender.org](https://www.blender.org/) 
-	- [x] releases [download](https://download.blender.org/release/) current 4.1
-	- [x] run blender-xxxx-xxx.msi should install in C:\Program Files\Blender Foundation
-- [ ] Examples followed [Ifc Architect - youtube](https://www.youtube.com/@IfcArchitect/videos)
-	- [x] 0.0.240402 [BlenderBim - Install](https://www.youtube.com/watch?v=I-937k6fvKk)
-		- [x] [BlenderBim release - download](https://github.com/IfcOpenShell/IfcOpenShell/releases)
-		- [x] [Addon Install tc 3:17](https://youtu.be/I-937k6fvKk?t=197) File -> Preferences - Addons -> Install select Bim download zip
-		- [x] Go back and click on the BIM Addon to activate
-		- [x] Should see Blender 4.1.1 and BlenderBIM v0.0.230402 in bottom right
 ---
 ## blenderbim-tutorial [github](https://github.com/2cld/blenderbim-tutorial)
 - [ ] Uses blender 3.4 and blenderbim-230202-py310-win
