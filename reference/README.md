@@ -10,7 +10,15 @@ reference files
 - [ ] setup blender windows https://docs.blender.org/manual/en/latest/interface/window_system/areas.html
 - [ ] building Smart Data Dictionary https://www.buildingsmart.org/users/services/buildingsmart-data-dictionary/
 - [ ]  Look at https://www.floorplans.com/ and pull some floor plans found via [youtube](https://www.youtube.com/watch?v=u2Ywe1vbl30)
-	- [ ]  Small Passive House - https://www.youtube.com/watch?v=ogjkhdwKVII
+ - [ ]  Small Passive House - https://www.youtube.com/watch?v=ogjkhdwKVII
+ - [ ]  tbd
+- [ ]  sites for blenderBIM learning
+ - [ ] house capture and render [Rb lo - youtube - videos](https://www.youtube.com/@rbio476/videos)
+  - [ ] [doors and windows](https://www.youtube.com/watch?v=9oeLlycEnbQ)
+ - [ ] lots of BIM [Dion Moult - youtube - videos](https://www.youtube.com/@DionMoult/videos)
+  - [ ] [multi-storey management](https://www.youtube.com/watch?v=28g3TO5bBaw)
+- [ ] tbd
+- [ ] tbd
 ---
 ## BlenderBIM - git
 - BIM [github colab youtube](https://www.youtube.com/watch?v=cJZhSCSSWdA) for this BIM [github example project](https://github.com/brunopostle/ifc-demo)
